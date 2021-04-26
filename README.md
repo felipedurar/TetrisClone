@@ -5,7 +5,7 @@ A Tetris Game coded using C++
 This is a Tetris game that i coded when i was 14 years old, the code is not that great but i want keep it here to keep history of the coded i've done.
 There is a lot of logic that can be optimized on this code, such as the image loading process, better structure, use of trigonometry for the matrix rotation and others.
 
-![alt text](screnshots/Screenshot_167.png)
+![alt text](screenshots/Screenshot_167.png)
 
 # How to run it
 This was coded using C++ and compiled using the MinGW on Windows, the game uses the SDL for graphics, window, audio and text, so in order to run this game you should set up the following libraries:
