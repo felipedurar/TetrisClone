@@ -1,4 +1,6 @@
 # TetrisClone
+**THIS IS A LEGACY PROJECT**
+
 A Tetris Game coded using C++
 
 # What is it
